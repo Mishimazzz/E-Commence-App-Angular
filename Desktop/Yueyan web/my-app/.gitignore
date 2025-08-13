@@ -1,0 +1,8 @@
+# Logs
+# 忽略一切
+/*
+
+# 但保留这些
+!my-app/
+!.gitignore
+!README.md
